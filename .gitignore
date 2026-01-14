@@ -1,0 +1,18 @@
+# Python cache / bytecode
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Conda / virtual environments
+env/
+venv/
+nlc/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large datasets (optional)
+data/
